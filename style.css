@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin-left: 50px;
+}
+div{
+    background-color: aqua;
+    color: aqua;
+    width: 100%;
+}
+text-block{
+    width: 90%;
+    margin: auto;
+    background-color: rgb(140, 227, 240);
+    padding: 50px;
+    margin-top: 20px;
+}
+p{
+    color:lightskyblue;
+    background-color: dimgrey;
+    font-family: 'Merriweather', serif;
+}
+h3{
+    color:lightskyblue;
+    background-color: dimgrey;
+    font-family: 'Merriweather', serif;
+}
+h4{
+    color:lightskyblue;
+    background-color: dimgrey;
+    font-family: 'Merriweather', serif;
+}
+h2{
+    flex-wrap: wrap;
+    align-content: center;
+    background-color: black;
+}
+h1{
+    background-color: rgb(0, 0, 0);
+    color: darkcyan;
+}
